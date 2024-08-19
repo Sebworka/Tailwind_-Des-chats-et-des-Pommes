@@ -1,0 +1,7 @@
+- La plupart des fichiers de config Tailwind n'ont pas été commenté
+
+- Le formulaire est fonctionnel (avec les restrictions qui s'impose pour chaque champs) et il renvoie à une autre page si il est remplis correctement (message.html à la racine du dossier) 
+
+- Un fichier CSS à été créer en parallèle de Tailwind (police.css). Il s'occupe de la police d'écriture "caveat" sur l'ensemble du site
+
+- Deux fichiers javascript ont été créer pour un rôle spécifique… Le premier "acceuil.jvs" (oui avec la faute) qui s'occupe essentiellement du carrousel sur la page acceuil.html et le second "contacter.jvs" qui s'occupe du formulaire. Néanmoins des script ont été placé "laborieusement" directement dans le html de certaines pages pour gérer le responsive (à cause de nombreuse difficultés rencontrés)
